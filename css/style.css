@@ -162,6 +162,13 @@ section {
   text-align: center;
 }
 
+.center-fit {
+  max-width: 100%;
+  max-height: 100vh;
+  margin: auto;
+}
+
+
 /* MEDIA QUERIES */
 
 @media screen and (max-width: 768px) {
